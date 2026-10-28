@@ -1,10 +1,9 @@
 # DevSecOps Shell Assignment
 
 - Name: Neev Savla
-- PRN: 12btBTCS1006
+- PRN: 124BTCS1006
 - Course: DevSecOps Lab
-- Assignment: DevSecOps Lab - Git Version Control
-- Assignment: DevSecOps Lab - GitHub Collaboration
+- Assignment: DevSecOps Lab - Git Version Control and GitHub Collaboration
 
 ## Objective
 To practise Bash scripting and learn Git version control
