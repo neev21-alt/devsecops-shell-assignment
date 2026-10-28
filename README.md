@@ -4,6 +4,7 @@
 - PRN: 12btBTCS1006
 - Course: DevSecOps Lab
 - Assignment: DevSecOps Lab - Git Version Control
+- Assignment: DevSecOps Lab - GitHub Collaboration
 
 ## Objective
 To practise Bash scripting and learn Git version control
